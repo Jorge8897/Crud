@@ -1,0 +1,13 @@
+@section('content')
+<div id="content" class="p-4 p-md-5 pt-5">
+        <h2 class="mb-4">Pagina Pintores Inicio</h2>
+        <p>En el proceso del lenguaje y la comunicación artística la figura del pintor se sitúa en el grupo emisor del mensaje que tiene la obra como elemento transmisor y el público como ente receptor. Su importancia no es necesario valorarla, aunque, al igual que la obra y el público, son objeto de estudio del historiador del arte que pretende contextualizar todo este proceso.</p>
+        <p>La interpretación romántica del artista ha llevado a su supravaloración convirtiéndolo en el único agente emisor del proceso. Sin embargo, un breve repaso a la historia del arte moderno y contemporáneo nos permite comprender su justo valor y sus dependencias. Cuando Zuccari habla de la «Idea» la define como una «representación interior» que precede a la realización o «disegno externo», y que es independiente respecto a ella. Puede por consiguiente ser producida en el espíritu del hombre sólo en cuanto que Dios le ha otorgado la facultad para ello, es decir, en cuanto que la Idea humana no es más que un desarrollo del espíritu divino, una «scintilla della divinita». A pesar de ello la idea se mediatiza a través de los patronos, clientes y público, a la vez que la figura del comitente adquiere una gran relevancia ya que en última instancia se nos aparece como el verdadero ideólogo de la obra, relegando al artista sólo a la segunda fase del proceso, es decir, el «disegno» externo o realización plástica. Los ejemplos serían numerosos pero, por próximos, citaremos dos casos ilustrativos del siglo XVII español: el palacio del Buen Retiro y el programa de la Iglesia del Hospital de la Caridad de Sevilla. En el primero de los casos, Carducho, en sus «Diálogos de la pintura», a instancias de un discípulo responde a la pregunta de «¿Quién es el arquitecto deste asunto, deste maravilloso prodigio?», con esta tajante afirmación: «Tengo por mui cierto que el ilustrado ingenio del Excelentísimo Conde Duque», refiriéndose a Olivares, quien, a su vez ayudado por Velázquez, es el artífice del programa plástico-ideológico del Salón de los Reinos de dicho palacio. El ejemplo del Hospital de la Caridad no ofrece dudas de dirigismo ideológico, aquí de Don Miguel de Mañara, quien ayudado por los «disegni» externos de Murillo, Valdés Leal y Roldán conseguirá uno de los programas más interesantes del Barroco Hispano.</p>
+      </div>
+		</div>
+
+    <script src="js/jquery.min.js"></script>
+    <script src="js/popper.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/main.js"></script>
+@show
